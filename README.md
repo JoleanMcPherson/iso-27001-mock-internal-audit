@@ -17,7 +17,7 @@ You are brought in as an internal auditor to evaluate key ISO 27001:2022 Annex A
 
 - [`audit-plan.md`](./audit-plan.md): Audit objectives, scope, and schedule  
 - [`audit-summary.md`](./audit-summary.md): High-level report and recommendations  
-- [`findings/`](./findings): Detailed reports for each selected control  
+- [`findings/`](https://github.com/JoleanMcPherson/iso-27001-mock-internal-audit/blob/1700d7bb73e851f2763dfc94dcfe58eedb91c87b/iso-27001-mock-internal-audit/findings/A.6.1.1.md): Detailed reports for each selected control  
 
 ## 🛠️ Controls Reviewed
 
